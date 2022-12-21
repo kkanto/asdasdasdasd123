@@ -1,2 +1,2 @@
-# asdasdasdasd123
-This is asdasdasdasd123
+# maven_template
+This is testow2o12345
